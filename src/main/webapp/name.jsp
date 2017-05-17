@@ -6,8 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Name</title>
     <script src="webjars/jquery/3.2.0/jquery.min.js"></script>
-    <script src="name.js"></script>
-    <link href="name.css" rel="stylesheet"/>
+    <script src="players.js"></script>
+    <link href="players.css" rel="stylesheet"/>
 </head>
 <body>
 <h1>${msg}</h1>
